@@ -1,0 +1,1 @@
+# blog_base_app
