@@ -1,1 +1,1 @@
-# blog_base_app
+# simple blog app developed to test skills with django 
