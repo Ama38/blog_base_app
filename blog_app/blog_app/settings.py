@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'main_app',
+    'main_app',
     'users.apps.UsersConfig'
 ]
 
@@ -80,7 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'blog_app',
-        'USER' : 'main',
+        'USER': 'main',
         'PASSWORD': 'main',
         'HOST': '127.0.0.1',
         'PORT': '5432',
