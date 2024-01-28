@@ -29,6 +29,10 @@ ALLOWED_HOSTS = []
 
 AUTH_USER_MODEL = 'users.CustomUser'
 
+LOGIN_URL = 'accounts/login/'
+LOGIN_REDIRECT_URL = 'accounts/home/'
+LOGOUT_REDIRECT_URL = 'accounts/login/'
+
 # Application definition
 
 INSTALLED_APPS = [
