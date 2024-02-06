@@ -1,1 +1,1 @@
-# simple blog app developed to test skills with django 
+# simple blog app developed with django maybe later commercial product
